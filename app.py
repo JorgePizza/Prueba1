@@ -53,4 +53,4 @@ preguntas = [
     {
         "pregunta": "¿Cuál es la salida de: `for i in range(2): print(i)`?",
         "opciones": ["0 1", "1 2", "0 1 2"],
-        "respuesta
+        "respuesta"
